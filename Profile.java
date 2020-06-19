@@ -1,7 +1,6 @@
 import java.awt.image.*;
 
 /* Natalie Pham
- * Midterm Project (Attempt to do the extra credit
  * This class prints a profile on a simple social network.
  * 05/26/2020
  */
